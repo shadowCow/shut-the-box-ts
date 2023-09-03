@@ -1,0 +1,25 @@
+{
+  "name": "@cow-sunday/shut-the-box-ts",
+  "version": "1.0.0",
+  "description": "Shut the Box rules in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowCow/shut-the-box-ts.git"
+  },
+  "author": "shadowCow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowCow/shut-the-box-ts/issues"
+  },
+  "homepage": "https://github.com/shadowCow/shut-the-box-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@cow-sunday/dice-ts": "^1.0.1"
+  }
+}
